@@ -5,6 +5,7 @@ rencana belajar
   * tailwind
 - js
   * React
+  * Vue
 - php
   * laravel
 - python
