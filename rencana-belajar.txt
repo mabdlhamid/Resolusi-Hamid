@@ -1,4 +1,5 @@
 rencana belajar
+- struktur data
 - html
 - css
   * Bootsrap
