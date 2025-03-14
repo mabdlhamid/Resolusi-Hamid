@@ -1,10 +1,10 @@
 rencana belajar
 - html
 - css
-  * Bootsrap
+  * tailwind
 - js
   * React
-  * Angular
+  * Vue
 - php
   * laravel
-- pyhton
+- python
