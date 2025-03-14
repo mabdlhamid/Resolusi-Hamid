@@ -1,10 +1,10 @@
 rencana belajar
-- struktur data
 - html
 - css
   * Bootsrap
-  * tailwind
 - js
   * React
+  * Angular
 - php
   * laravel
+- pyhton
