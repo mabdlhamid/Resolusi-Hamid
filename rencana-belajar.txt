@@ -1,5 +1,4 @@
 rencana belajar
-- struktur data
 - html
 - css
   * tailwind
