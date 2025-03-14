@@ -1,0 +1,7 @@
+rencana belajar
+- html
+- css
+- js
+- php
+- react
+- laravel
