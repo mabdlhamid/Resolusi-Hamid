@@ -1,0 +1,9 @@
+rencana belajar
+- html
+- css
+  * Bootsrap
+  * tailwind
+- js
+  * React
+- php
+  * laravel
